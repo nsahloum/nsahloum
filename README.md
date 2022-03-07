@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently working on **Angular and Spring Boot projects**
 
-- 🌱 I’m currently learning **Angular, Spring Boot, Ruby on Rails**
-
-- 💬 Ask me about **Java, Javascript, Typescript**
-
-- 📫 How to reach me **nsahloum@gmail.com**
+- 🌱 I’m currently learning **Angular, Spring Boot and Ruby on Rails**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
