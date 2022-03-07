@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nsahloum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nsahloum" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nsahloum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nsahloum" height="30" width="40" /></a>
-  <a href="https://www.codingame.com/profile/191ca89ef4450b7fe3a161f180ecd6b51277221" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" alt="codingame" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nsahloum" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nsahloum" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nsahloum" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nsahloum" height="30" width="40" /></a>
+  <a href="https://www.codingame.com/profile/191ca89ef4450b7fe3a161f180ecd6b51277221" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" alt="codingame" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
